@@ -1,9 +1,9 @@
 # Processamento de Imagens
 
-## Objetivos Gerais
+##Objetivos Gerais
   Entender e aplicar o conceito de detecção de bordas através da implementação do algoritmo Laplaciano no MATLAB. Explicar como cada algoritmo funciona, bem como a sua implementação no software MATLAB.
   
-## Detecção de bordas
+##Detecção de bordas
 	É uma técnica de processamento de imagem e visão computacional para determinar pontos de uma imagem digital em que a intensidade luminosa muda repentinamente. Mudanças repentinas em imagens geralmente refletem eventos importantes no cenário, como a descontinuação da profundidade (transição entre o objeto e o fundo), descontinuação da orientação da superfície, mudança das propriedades do material ou variações na iluminação da cena.
 	A detecção de bordas é muito importante para a extração de características da imagem. Sua utilização reduz significativamente a quantidade de dados a serem processados, e descarta informação que é considerada menos relevante, ainda que preservando importantes propriedades estruturais de uma imagem.
 
