@@ -30,3 +30,7 @@ Entender e aplicar o conceito de detecção de bordas através da implementaçã
 ![alt text](https://github.com/Wms5/DevTests/blob/master/Imagens/h1laplaciano7x7.jpg?raw=true "Laplacinano 7x7")
 
 
+###### Contato
+[![alt text](https://github.com/Wms5/DevTests/blob/master/Imagens/linked.png?raw=true)](https://www.linkedin.com/in/wilkinson-maciel)/ [wilkinson-maciel](https://www.linkedin.com/in/wilkinson-maciel)
+
+
