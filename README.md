@@ -16,13 +16,13 @@ O modelo básico de implementação do Laplaciano envolve a multiplicação dos 
 
 A seguir são apresentadas algumas imagens antes e depois de aplicar o filtro Laplaciano para diferentes tamanhos de kernels ( 3x3, 5x5, 7x7). Observe que quanto maior o tamanho do kernel mais a borda fica maior.  
 
-Imagem original
+## Imagem original
 ![alt text](https://github.com/Wms5/DevTests/blob/master/Imagens/h1.png?raw=true "Imagem Original")
-Imagem após o filtro Laplaciano 3x3
+## Imagem após o filtro Laplaciano 3x3
 ![alt text](https://github.com/Wms5/DevTests/blob/master/Imagens/h1laplaciano3x3.jpg?raw=true "Laplacinano 3x3")
-Imagem após o filtro Laplaciano 5x5
+## Imagem após o filtro Laplaciano 5x5
 ![alt text](https://github.com/Wms5/DevTests/blob/master/Imagens/h1laplaciano5x5.jpg?raw=true "Laplacinano 5x5")
-Imagem após o filtro Laplaciano 7x7
+## Imagem após o filtro Laplaciano 7x7
 ![alt text](https://github.com/Wms5/DevTests/blob/master/Imagens/h1laplaciano7x7.jpg?raw=true "Laplacinano 7x7")
 
 
