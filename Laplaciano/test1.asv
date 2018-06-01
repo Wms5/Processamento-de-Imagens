@@ -1,0 +1,16 @@
+close all
+clc
+
+img = imread('h1.jpg');
+figure
+imshow(img),title('Imagem Original');
+
+n=3;
+imglaplaciano= laplaciano(img,n);
+figure
+imshow(imglaplaciano),title('Filtro Laplaciano 3x3');
+
+n=3;
+imglaplaciano= laplaciano(img,n);
+figure
+imshow(imglaplaciano),title('Filtro Laplaciano 5x5');
